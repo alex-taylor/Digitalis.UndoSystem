@@ -1,0 +1,1 @@
+- document the suspend/resume and IsCommandStarted tricks
